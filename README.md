@@ -43,7 +43,7 @@ My Passion wakes me up!
   </tr>
 </table>
 
-<p align="center"> <a href="https://twitter.com/aysuarex" target="_blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
+<p align="center"> <a href="https://twitter.com/SengaManu" target="_blank"><img src="https://img.shields.io/twitter/follow/SengaManu?logo=twitter&style=for-the-badge" alt="SengaManu" /></a> </p>
 
 ## My Github Stats:
 
