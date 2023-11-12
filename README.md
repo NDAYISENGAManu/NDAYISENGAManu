@@ -10,7 +10,7 @@ My Passion wakes me up!
 <table>
   <tr>
     <td>
-      <p>- 🔭 I'm currently working for <b>Bank of Kigali Techouse as a Front-end Engineer</b></p>
+      <p>- 🔭 I'm currently working as a Front-end Engineer</b></p>
       <p>- 👀 I’m interested in new ideas and new ways of thinking</p>
       <p>- 📫 I have strong experience in JavaScript (TypeScript, React), NodeJs and DevOps </p>
       <p>- 🌱 I’m currently a student at ALX Software engineering program</p>
@@ -46,7 +46,7 @@ My Passion wakes me up!
 
 ## My Github Stats:
 
-<table>
+<!----<table>
   <tr>
     <td>
        <a href="https://github.com/NDAYISENGAManu"><img alt="NDAYISENGA Manu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDAYISENGAManu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
@@ -58,12 +58,11 @@ My Passion wakes me up!
       <a href="https://github.com/NDAYISENGAManu"><img alt="NDAYISENGAManu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDAYISENGAManu&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
   </tr>
-</table>
+</table>---->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
 <!-----<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>---->
-
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuarex&show_icons=true&locale=en&layout=compact" alt="aysuarex" /></p>
