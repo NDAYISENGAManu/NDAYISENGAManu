@@ -10,15 +10,14 @@ My Passion wakes me up!
 <table>
   <tr>
     <td>
-      <!--<p>- 🔭 I'm currently working for <b>Bank of Kigali Techouse as a Front-end Engineer</b></p>-->
+      <p>- 🔭 I'm currently working for <b>Bank of Kigali Techouse as a Front-end Engineer</b></p>
       <p>- 👀 I’m interested in new ideas and new ways of thinking</p>
-      <p>- 📫 I have strong experience in JavaScript (TypeScript, React), NodeJs, QA, and DevOps automation.</p>
+      <p>- 📫 I have strong experience in JavaScript (TypeScript, React), NodeJs and DevOps </p>
       <p>- 🌱 I’m currently a student at ALX Software engineering program</p>
       <p>- 💞️ I’m looking to contributing to things that bring real meaningful changes, and have fun on the way.</p>
-      <p>- 📫 I'm currently working in <b>BK Techouse Ltd</b> in Kigali City.</p>
-      <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-      <p>- 📫 How to reach me: <b><a href=mailto:webmasterio2015@gmail.com alt=email target="_blank">webmasterio2015@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a graduate in Applied Computer science from University of Rwanda</b></p>
+<!--       <p>- 📫 I'm currently working in <b>BK Techouse Ltd</b> in Kigali City.</p> -->
+      <p>- 📫 How to reach me: <b><a href=mailto:webmasterio2015@gmail.com alt=email target="_blank">el-matadord</a></b></p>
+      <!---<p>- ⚡ Fun fact: <b>I'm a graduate in Applied Computer science from University of Rwanda</b></p>--->
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
