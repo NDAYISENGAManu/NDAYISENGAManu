@@ -12,7 +12,7 @@ My Passion wakes me up!
     <td>
       <p>- 🔭 I'm currently working as a Front-end Software Developer But I'm a full stack</p>
       <p>- 👀 I’m interested in new ideas and new ways of thinking</p>
-      <p>- 📫 I have strong experience in JavaScript (TypeScript, React), NodeJs, DevOps and Linux administration </p>
+      <p>- 📫 I have strong experience in JavaScript (TypeScript, React), NodeJs, DevOps</p>
       <p>- 🌱 I’m currently a student at ALX Software engineering program</p>
       <p>- 💞️ I’m commited to things that bring real meaningful changes, and have fun on the way.</p>
       <p>- 📫 I'm currently working in <b>BK Techouse Ltd</b> in Kigali City.</p>
