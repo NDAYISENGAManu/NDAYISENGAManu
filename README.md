@@ -5,17 +5,17 @@ My Passion wakes me up!
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 <!--![NDAYISENGA_banner](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)-->
 <h1 align="center">👋 Hi, I'm @NDAYISENGAManu</h1>
-<h3 align="center">A passionate Software Developer from Rwanda</h3>
+<h3 align="center">A passionate Software Developer from Kigali - Rwanda</h3>
 
 <table>
   <tr>
     <td>
-      <p>- 🔭 I'm currently working as a Front-end Software Developer</p>
+      <p>- 🔭 I'm currently working as a Front-end Software Developer But I'm a full stack</p>
       <p>- 👀 I’m interested in new ideas and new ways of thinking</p>
       <p>- 📫 I have strong experience in JavaScript (TypeScript, React), NodeJs, Python, C Programming, DevOps and Linux administration </p>
       <p>- 🌱 I’m currently a student at ALX Software engineering program</p>
       <p>- 💞️ I’m looking to contributing to things that bring real meaningful changes, and have fun on the way.</p>
-<!--       <p>- 📫 I'm currently working in <b>BK Techouse Ltd</b> in Kigali City.</p> -->
+      <p>- 📫 I'm currently working in <b>BK Techouse Ltd</b> in Kigali City.</p>
       <p>- 📫 How to reach me: <b><a href=mailto:webmasterio2015@gmail.com alt=email target="_blank">el-matadord</a></p>
       <!---<p>- ⚡ Fun fact: <b>I'm a graduate in Applied Computer science from University of Rwanda</b></p>--->
     </td>
