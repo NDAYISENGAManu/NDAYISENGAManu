@@ -16,7 +16,7 @@ My Passion wakes me up!
       <p>- 🌱 I’m currently a student at ALX Software engineering program</p>
       <p>- 💞️ I’m commited to things that bring real meaningful changes, and have fun on the way.</p>
       <p>- 📫 I'm currently working in <b>BK Techouse Ltd</b> in Kigali City.</p>
-      <p>- 📫 How to reach me: <b><a href=mailto:webmasterio2015@gmail.com alt=email target="_blank">el-matadord</a></p>
+      <p>- 📫 How to reach me: <b><a href=mailto:webmasterio2015@gmail.com alt=email target="_blank">Emmanuel NDAYISENGA</a></p>
       <!---<p>- ⚡ Fun fact: <b>I'm a graduate in Applied Computer science from University of Rwanda</b></p>--->
     </td>
     <td>
