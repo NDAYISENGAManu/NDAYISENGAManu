@@ -1,7 +1,4 @@
-My Passion wakes me up!
-
-
-<h1>👋 Hi, I'm @NDAYISENGAManu</h1>
+<h1>👋 Hi, My Name are Emmanuel NDAYISENGA</h1>
 <h3>A passionate Software Engineer from Kigali - Rwanda</h3>
 
 <table>
